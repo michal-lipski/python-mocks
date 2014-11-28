@@ -1,0 +1,4 @@
+
+
+class SnowRescueService(object):
+    pass
